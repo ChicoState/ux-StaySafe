@@ -5,7 +5,7 @@ Stay Safe is an application intended to assist with assessing crimes and crime r
 ## UX Team Members
 
 * **[Colby Sax](https://usabilityengineering.github.io/ux-journal-ChicoCJSax/)** - Research and analysis of competitors, report editing, initial sketches
-* **[Person B](!!!URL to Person B's published portfolio!!!)** - !!!List of Person B's primary contributions!!!
+* **[Joey Lu](https://github.com/UsabilityEngineering/ux-journal-thejoeyluu/)** - Sketches, Research and analysis of competitors, report editing
 * **[Person C](!!!URL to Person C's published portfolio!!!)** - !!!List of Person C's primary contributions!!!
 
 # User-Centered Design Artifacts
