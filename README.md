@@ -1,12 +1,10 @@
-!!! NOTE: Delete all parts of this file surrounded by three exclamation marks (including the exclamation marks themselves) and replace them with the appropriate content -- they are only instructions and shouldn't be in your report!!!
+# Stay Safe
 
-# !!!Project Name!!!
-
-!!!Brief introduction to the project and the problem it is intended to solve!!!
+Stay Safe is an application intended to assist with assessing crimes and crime rate of your current area, or whatever area that you provide to the application. It allows users to view and be notified of crimes near their location, with an adjustable range to accommodate your needs. It can be used for research purposes as well, with the ability to check an area and any crimes commited within that space for the last week, month, year, whatever you desire of it. It helps you stay informed about your location and provide you with information that you need about an area you might be curious about.
 
 ## UX Team Members
 
-* **[Person A](!!!URL to Person A's published portfolio!!!)** - !!!List of Person A's primary contributions!!!
+* **[Colby Sax](https://usabilityengineering.github.io/ux-journal-ChicoCJSax/)** - Research and analysis of competitors, report editing, initial sketches
 * **[Person B](!!!URL to Person B's published portfolio!!!)** - !!!List of Person B's primary contributions!!!
 * **[Person C](!!!URL to Person C's published portfolio!!!)** - !!!List of Person C's primary contributions!!!
 
