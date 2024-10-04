@@ -1,21 +1,28 @@
 # Phase I: Analyzing Users, Competitors, and Initial Designs
-
+ 
 ## Introduction
-
-!!! Describe the general problem that the project is trying to solve !!!
-
+ 
+Stay Safe addresses the need for individuals to stay informed and aware of criminal activity in their surroundings. Whether you're concerned about the safety of your own neighborhood, considering a new place to live, planning a trip to an unfamiliar area, or even considering a possible real estate investment opportunity, Stay Safe provides you with the information you need to do as the name suggests, stay safe. It’s a streamlined and simplistic way to find any crime incident information that you need, with ways to stay up to date and be notified about incidents near you.  
+ 
 ## Methods
-
-!!! Describe research methods you used to discover new insights, which explains the purpose of each. Provide enough detail that someone would be able to faithfully reproduce your research. !!!
-
+ 
+As we gathered and performed research for Stay Safe, we ran over a few different methods to get a better understanding of the competition and what users are looking for in a service like this. One of the first things we did was inspect some competitors and took note of any highlights or complaints that users expressed in their reviews on the product. We picked out a few of the most popular competitors and checked them out. We’d try every feature of it, fully exploring it to gather information, keeping any noteworthy information. After conducting research, we cultivated our findings to note the key strengths and weaknesses that the applications had. We ensured to check customer reviews for Google Play Store and App Store as well during this process.
+ 
+In addition to analyzing some competitors, we conducted a heuristic evaluation on the top competitor. We surveyed the application, judging how it performed in 10 different categories, to get an overall understanding of the app’s UI and how it felt to use. We rated how the app performed in each of those different categories from a scale of 1-10. Those helped us note any other strengths and weaknesses of the application that weren’t found in our initial evaluation of the competitor.
+ 
 ## Findings
+ 
+Competitive Analysis- We analyzed two apps, Citizen: Local Safety Alerts and SpotCrime. For the app Citizen: Local Safety Alerts, we found that many users disliked the paywall of several features the app provided as it went up to $50 a month.  For example, users needed to pay for access to emergency services/responders, ability to customize their crime radius map, adding friends/family to their contact list on the app, and even be able to receive a detailed list of registered offenders in their area! With SpotCrime, users disliked how some of the incidents are inconsistent and that they were alerted way too late. For example, a user complained how half of the listed crimes in their city were for crimes in cities that were in completely different states. They stated, “if you click on the “more info” of a crime listed on the map in your area, it clearly states the crime occurred in states over 1000 miles away”.  It was overall a clunky application to use. Customer reviews helped us further that knowledge on the application we were viewing as well. An issue that we might not have had when testing is made known by a review. Those help us get more prepared for our application, to avoid hang ups that people might have had with other products, as well as retaining the good aspects of those applications. To provide an example, we learned about issues with SpotCrime and the rampant inconsistency of crime tracking as well as potentially harmful practices committed by the site, such as having visible names and addresses listed for public view. It’s easy to highlight the bad things as both apps have their controversies. Some users feel that features like having registered offenders’ addresses with their picture on display in the app will promote vigilantism, racial profiling and paranoia. We found plenty of strengths to take note of as well, like easy access to calling 911 or searching a location to view what crime looks like in that given area. In addition, both apps were available on IOS and android which provided an easier access to users instead of having it on the web. It helped us set a baseline for features that we want to include in Stay Safe.
 
-!!! For each research method, detail each of the findings point-by-point to clarify new discoveries of users' needs !!!
-
+ Heuristic Evaluation- During our evaluation of Citizen, we came to find that the app did a solid job in all of the categories provided to it, with a few exceptions that worsened the experience a bit. It rarely ran into errors, and it had concise instructions on how to prevent future errors. It’s got a useful help page, controls well and provides a good amount of freedom on the app. It can take a bit of fumbling around to find the page you want but it could be much worse. The app is a little flat visually, with most of it being black elements and white text, so some pages can blend a bit. It’s a very minimal design; however, it doesn’t overcomplicate things unnecessarily, making it easy to understand what page you’re on and what it offers. The biggest issue with the app involved their subscriptions and what that provides. There’s a page dedicated to features of the subscription, but it doesn’t elaborate on what those features are on the page itself. There are also 2 subscriptions, Premium and Plus, and they’re seemingly used interchangeably when labeling a subscription feature. A feature might say it requires Plus, when premium would also provide the benefit, yet it only mentions Plus. This occurred in a few different places when using the app. 
+ 
 ## Conclusions
-
-!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
-
+ 
+We’ve managed to gather a lot of important findings from our research methods to help us craft an enjoyable user experience when it comes to Stay Safe. We found what people wanted to see, and how we could prevent some of the gripes that people had with competitors. After conducting this research, we created some personas to represent likely candidates that would use our product. Then, we’d place them in a scenario where they’d be better off for having our product or using Stay Safe over a different crime map application. 
+ 
+In addition to our Personas/Scenarios, we wrote up some initial sketches on how the UI for Stay Safe could look. The notes we took during our heuristic evaluation were applied to our sketches, and we made sure to follow the same standards that we placed onto our competitor when going through the 10 categories. Following those categories enables us to refine the usability experience as much as we can. Our sketches set the framework for our application and let us refine what we’ve set up over the course of the semester.
+ 
 ## Caveats
-
-!!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!!
+ 
+Unfortunately, due to the subscription model of Citizen, it ended up affecting a bit of our research and findings. We were just able to sample the free aspects of it for our analysis and evaluation, so some extra information regarding the paid features is unavailable. Another thing to mention is gathering information from customer reviews could prove a bit unreliable at times. You usually had to dig a bit to find a review that went over the user’s opinions on the application in more detail than just a sentence or two. Finding useful reviews could end up taking time. Initially, it was a bit hard to narrow down specific user types for personas as well, so some of them cover a bit of a broad variety of people who might take interest in Stay Safe.
+ 
