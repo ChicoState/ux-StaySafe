@@ -24,7 +24,7 @@ Initial research and designing for Stay Safe focused on users being able to easi
   - **Subscription Costs:** Numerous features were locked behind a paywall, leading to an overall worse experience if you don't pay.
   - **Inconsistency:** Some competitors had out of date or incorrect information regarding crime reports. Sometimes a crime wouldn't be properly recorded, or a notification would come several days after the incident was resolved.
   - **False Reporting:** In some cases, a false report would occur. These reports would contain personal data as well, listed on the application for anyone to see. These potential safety breaches were a large point of concern in reviews.
-- Heuristic evaluation gave us insight on what a strong user experience should look like, looking at a higher end competitor. It did manage to highlight some key weaknesses to take note of:
+- Heuristic evaluation gave us insight on what a strong user experience should look like, looking at a higher end competitor for this evaluation. It did manage to highlight some key weaknesses to take note of, however:
   - A minimalist design could lead to **difficulties when navigating through the application**.
   - The subscription model wasn't entirely clear on benefits, with inconsistent usage of the "Plus" and "Premium" labeling, leading to **confusion on what each model uniquely provided for benefits**.
 - With our research and findings, we created some personas and scenarios to represent likely customers, and a situation where they'd have been better off using our product. These highlighted what users needed from our product:
