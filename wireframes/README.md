@@ -1,6 +1,7 @@
 # Wireframes
 ![iPhone- home page with bar@3x](https://github.com/user-attachments/assets/2ca7ef49-8dd6-4a84-a099-7637a77a36d7)
-
+User presses search
+ 
 ![iPhone- Search for location](https://github.com/user-attachments/assets/a9f62895-07d9-4d6b-851d-48d86350868e)
 
 ![iPhone- Map view](https://github.com/user-attachments/assets/d038dc58-5798-4a27-957a-15e71b271ecb)
