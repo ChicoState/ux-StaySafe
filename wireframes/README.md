@@ -2,7 +2,7 @@
 
 ## Wireframes
 
-User presses search 
+User presses search. The user is the car icon.
 
 ![iPhone- home page with bar@3x](https://github.com/user-attachments/assets/2ca7ef49-8dd6-4a84-a099-7637a77a36d7)  
 
@@ -12,9 +12,9 @@ User types into the search bar for the location they want to view any crimes
 
 ![iPhone- Search for location](https://github.com/user-attachments/assets/a9f62895-07d9-4d6b-851d-48d86350868e) 
 
-The exclamation mark indicates that there is a crime reported nearby with the car icon being the user.
+The exclamation mark indicates that there is a crime reported nearby.
 
-![iPhone- Map view](https://github.com/user-attachments/assets/d038dc58-5798-4a27-957a-15e71b271ecb) 
+![iPhone- Map view (1)](https://github.com/user-attachments/assets/1b693f79-7e2f-4a5c-bb52-4629a0b9e671)
 
 ## Starred Reports
 
