@@ -6,6 +6,8 @@ User presses search
 
 ![iPhone- home page with bar@3x](https://github.com/user-attachments/assets/2ca7ef49-8dd6-4a84-a099-7637a77a36d7)  
 
+## Search Map Location
+
 User types into the search bar for the location they want to view any crimes
 
 ![iPhone- Search for location](https://github.com/user-attachments/assets/a9f62895-07d9-4d6b-851d-48d86350868e) 
@@ -13,6 +15,8 @@ User types into the search bar for the location they want to view any crimes
 The exclamation mark indicates that there is a crime reported nearby with the car icon being the user.
 
 ![iPhone- Map view](https://github.com/user-attachments/assets/d038dc58-5798-4a27-957a-15e71b271ecb) 
+
+## Starred Reports
 
 Click the see more from any of the starred reports to get a more in-depth report
 
@@ -34,6 +38,8 @@ From the user POV, now the report they deleted (Robbery at Chase Bank) is now go
 
 ![iPhone- starred page after](https://github.com/user-attachments/assets/75294ad0-4eeb-4036-a719-366ba79497ec)
 
+## Find My Friends
+
 Going back to the default page of map to go to another feature page which is "Friends".
 
 ![IPhone- default page](https://github.com/user-attachments/assets/2ec6fd73-7488-4a48-a7b6-a73b781cbb6e)
@@ -49,6 +55,8 @@ The person icon is to represent the friend on the map.
 In case there is a crime reported/onogoing near your friend on the live map, you have the option to send them an alert. This is just in case they don't have notifications turned on for crime alerts.
 
 ![iPhone- Crime reported pop-up notification](https://github.com/user-attachments/assets/03ff12ee-4b1c-4b43-bfeb-9c94086a7755)
+
+## Settings
 
 Going back to the map home page, we can now click settings for more features. 
 
