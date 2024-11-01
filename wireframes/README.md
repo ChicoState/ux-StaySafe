@@ -1,17 +1,13 @@
 # Wireframes
 ![iPhone- home page with bar@3x](https://github.com/user-attachments/assets/2ca7ef49-8dd6-4a84-a099-7637a77a36d7)  User presses search
  
-![iPhone- Search for location](https://github.com/user-attachments/assets/a9f62895-07d9-4d6b-851d-48d86350868e)
-User types into the search bar for the location they want to view any crimes
+![iPhone- Search for location](https://github.com/user-attachments/assets/a9f62895-07d9-4d6b-851d-48d86350868e) User types into the search bar for the location they want to view any crimes
 
-![iPhone- Map view](https://github.com/user-attachments/assets/d038dc58-5798-4a27-957a-15e71b271ecb)
-The exclamation mark indicates that there is a crime reported nearby with the car icon being the user.
+![iPhone- Map view](https://github.com/user-attachments/assets/d038dc58-5798-4a27-957a-15e71b271ecb) The exclamation mark indicates that there is a crime reported nearby with the car icon being the user.
 
-![iPhone- Starred page](https://github.com/user-attachments/assets/58592c01-69b6-4473-8fb9-860173fada48)
-Click the see more from any of the starred reports to get a more in-depth report
+![iPhone- Starred page](https://github.com/user-attachments/assets/58592c01-69b6-4473-8fb9-860173fada48) Click the see more from any of the starred reports to get a more in-depth report
 
-![iPhone- starred report](https://github.com/user-attachments/assets/443f7c11-0f39-4a7b-9573-6b2c45d347b7)
-Using Robbery at Chase Bank as an example, the user will see a similiar report as to this with pictures of scene and of suspects. 
+![iPhone- starred report](https://github.com/user-attachments/assets/443f7c11-0f39-4a7b-9573-6b2c45d347b7) Using Robbery at Chase Bank as an example, the user will see a similiar report as to this with pictures of scene and of suspects. 
 
 ![iPhone- See more](https://github.com/user-attachments/assets/234301c2-d17d-47a8-a6df-0e08cfacc857)
 User can always delete the report by swiping left on the report for the delete option appearing. 
