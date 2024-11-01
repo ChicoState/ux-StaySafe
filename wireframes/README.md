@@ -6,7 +6,7 @@ User presses search
 User types into the search bar for the location they want to view any crimes
 
 ![iPhone- Map view](https://github.com/user-attachments/assets/d038dc58-5798-4a27-957a-15e71b271ecb)
-THe exclamation mark indicates that there is a crime reported nearby with the car icon being the user.
+The exclamation mark indicates that there is a crime reported nearby with the car icon being the user.
 
 ![iPhone- Starred page](https://github.com/user-attachments/assets/58592c01-69b6-4473-8fb9-860173fada48)
 Click the see more from any of the starred reports to get a more in-depth report
