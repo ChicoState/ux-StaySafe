@@ -43,10 +43,19 @@ Initial research and designing for Stay Safe focused on users being able to easi
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+The introduction and progression of wireframes has been the next step for Stay Safe, taking initial sketches and moving forward into wireframes. Multiple methods of research were conducted to refine these wireframes to the best of our ability before we took any further steps with development.
+
+- **Cognitive walkthroughs** let us provide a hands-on experience to a tester, highlighting the things we’ve done well and the things we could improve on:
+  - **Key actions:** Generally, testers had no issues with our base screens, with it being easily understandable how to go from page to page.
+  - **Missing Features:** Attention was brought to some features that we had mentioned our user persona utilizing during their experience with the app, that wasn’t available within our tested wireframe for the walkthrough.
+- **Informal feedback** provided us some early suggestions in the wireframe process from our SE team that we could use, with some key ones that we took notice of:
+  - **Crime-type disaggregation:**  Allow users to select the types of crimes they want to see and differentiate them visually on the map.
+  - **Accessible crime data:** Providing users with an easy way to view historical crime data to view trends of an area.
+- After these methods of research, modifications were made to our wireframes to account for features that were missing initially.
+  - Longer time frame slider for crime alerts to **see crimes from multiple days** since they initially happened.
+  - Crime category settings to **allow users to select which crimes they want to be alerted about**.
+  - A feature suggestion box was added in our support page as well, located within the settings, to **allow users to submit requests for extra features to allow us to keep gathering feedback** on where we could improve.
+
 
 [Full phase II report](phaseII/)
 
