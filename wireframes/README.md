@@ -68,7 +68,7 @@ The user now clicks on "Location" from the options.
 
 On this page, the user has the option to slide the bar to customize the radius of where they can receive or view notifcations for any crimes happening. In addition, the user can adjust the time limit (hours or days) for how long the crime event is displayed on the map. After that, the user can click back to go back to the main settings page from the start.
 
-![iPhone- location settings](https://github.com/user-attachments/assets/32c176fa-3c12-4ec1-a834-087a41356cf5)
+![location settings ss](https://github.com/user-attachments/assets/234a8118-e2b7-4913-81fd-953d37aef323)
 
 Now the user can click on "Notifications".
 
@@ -84,7 +84,7 @@ Now the user clicks on "Categories".
 
 Now the user has the option to check on or off which crime categories they want to be alerted about. Now the user clicks back again to the last settings option.
 
-![iPhone- categories settings](https://github.com/user-attachments/assets/1263085d-72f9-475a-859c-bdeeaac29fc8)
+![category settings ss](https://github.com/user-attachments/assets/b0e9db2c-25ba-48d3-9251-f30e78fe802c)
 
 The user will click on "Support".
 
