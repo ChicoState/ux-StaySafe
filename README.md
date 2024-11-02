@@ -52,9 +52,9 @@ The second phase of Stay Safe’s development has focused on refining wireframes
   - **Crime-type disaggregation:**  Allow users to select the types of crimes they want to see and differentiate them visually on the map, to improve the relevancy of alerts to the user.
   - **Accessible crime data:** Providing users with an easy way to view historical crime data to view trends of an area, staying informed about an area they might be concerned about.
 - After these methods of research, modifications were made to our wireframes to account for features that were missing initially.
-  - Time frame slider for crime alerts to **expand the viewability of crimes to multiple days** since they initially happened.
-  - Crime category settings to **allow users to select which crimes they want to be alerted about**.
-  - A feature suggestion box was added in our support page as well, located within the settings, to **allow users to submit requests for extra features to allow us to keep gathering feedback** on where we could improve.
+  - **Extended Time Frame Slider:** Expands crime alert visibility to multiple days, offering users a broader view of crime history and increasing data comprehensiveness.
+  - **Crime Category Settings:** Enables users to select which crime types they want alerts for, to improve alert relevancy and customizability.
+  - **Feature Suggestion Box:** Added in the support page to gather ongoing user feedback, allowing for continuous improvement based on user input.
 
 These research methods and refinements prepare Stay Safe for the prototype phase, ensuring an excellent user experience and a competitive position in the market.
 
