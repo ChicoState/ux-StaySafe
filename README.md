@@ -48,13 +48,13 @@ The second phase of Stay Safe’s development has focused on refining wireframes
 - **Cognitive walkthroughs:** Provided hands-on testing to assess ease of navigation and feature clarity.
   - **Key actions:** Testers found the screens intuitive, confirming that users can easily navigate between pages, ensuring an accessible, user-friendly design.
   - **Missing Features:** Notable gaps in features were mentioned, such as crime-type filtering and time-based data. These features were mentioned in our user persona that was tested but was nowhere to be found in our wireframe. Addressing these gaps would help to align the product with user needs.
-- **Informal feedback:** Questions were provided to the SE team for their demo and we received feedback that gave us insight on additional potential features that would improve the user experience and enhance user engagement.
+- **Informal feedback:** Questions were provided to the SE team for their demo, and we received feedback that gave us insight on additional potential features that would improve the user experience and enhance user engagement.
   - **Crime-type disaggregation:**  Allow users to select the types of crimes they want to see and differentiate them visually on the map, to improve the relevancy of alerts to the user.
   - **Accessible crime data:** Providing users with an easy way to view historical crime data to view trends of an area, staying informed about an area they might be concerned about.
 - After these methods of research, modifications were made to our wireframes to account for features that were missing initially.
   - **Extended Time Frame Slider:** Expands crime alert visibility to multiple days, offering users a broader view of crime history and increasing data comprehensiveness.
   - **Crime Category Settings:** Enables users to select which crime types they want alerts for, to improve alert relevancy and customizability.
-  - **Feature Suggestion Box:** Added in the support page to gather ongoing user feedback, allowing for continuous improvement based on user input.
+  - **Feature Suggestion Box:** Added to the support page to gather ongoing user feedback, allowing for continuous improvement based on user input.
 
 These research methods and refinements prepare Stay Safe for the prototype phase, ensuring an excellent user experience and a competitive position in the market.
 
