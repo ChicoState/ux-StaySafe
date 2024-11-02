@@ -43,18 +43,20 @@ Initial research and designing for Stay Safe focused on users being able to easi
 
 **Executive Summary**
 
-The introduction and progression of wireframes has been the next step for Stay Safe, taking initial sketches and moving forward into wireframes. Multiple methods of research were conducted to refine these wireframes to the best of our ability before we took any further steps with development.
+The second phase of Stay Safe’s development has focused on refining wireframes to enhance user experience and ensure accessibility of key features. This stage involved multiple research methods to identify design improvements before moving into full development.
 
-- **Cognitive walkthroughs** let us provide a hands-on experience to a tester, highlighting the things we’ve done well and the things we could improve on:
-  - **Key actions:** Generally, testers had no issues with our base screens, with it being easily understandable how to go from page to page.
-  - **Missing Features:** Attention was brought to some features that we had mentioned our user persona utilizing during their experience with the app, that wasn’t available within our tested wireframe for the walkthrough.
-- **Informal feedback** provided us some early suggestions in the wireframe process from our SE team that we could use, with some key ones that we took notice of:
-  - **Crime-type disaggregation:**  Allow users to select the types of crimes they want to see and differentiate them visually on the map.
-  - **Accessible crime data:** Providing users with an easy way to view historical crime data to view trends of an area.
+- **Cognitive walkthroughs:** Provided hands-on testing to assess ease of navigation and feature clarity.
+  - **Key actions:** Testers found the screens intuitive, confirming that users can easily navigate between pages, ensuring an accessible, user-friendly design.
+  - **Missing Features:** Notable gaps in features were brought to our attention, such as crime-type filtering and time-based data. These features were mentioned in our user persona that was tested but was nowhere to be found in our wireframe. Addressing these gaps would help to align the product with user needs.
+- **Informal feedback:** We provided questions to the SE team for their demo and received feedback that gave us insight on additional potential features that would improve the user experience and enhance user engagement.
+  - **Crime-type disaggregation:**  Allow users to select the types of crimes they want to see and differentiate them visually on the map, to improve the relevancy of alerts to the user.
+  - **Accessible crime data:** Providing users with an easy way to view historical crime data to view trends of an area, staying informed about an area they might be concerned about.
 - After these methods of research, modifications were made to our wireframes to account for features that were missing initially.
-  - Longer time frame slider for crime alerts to **see crimes from multiple days** since they initially happened.
+  - Time frame slider for crime alerts to **expand the viewability of crimes to multiple days** since they initially happened.
   - Crime category settings to **allow users to select which crimes they want to be alerted about**.
   - A feature suggestion box was added in our support page as well, located within the settings, to **allow users to submit requests for extra features to allow us to keep gathering feedback** on where we could improve.
+
+All of these research methods and tweaks served to refine Stay Safe as much as possible and prepare it for the upcoming prototype that we’ll develop. These refinements ensure that Stay Safe will provide an excellent user experience and remain competitive within the respective market.
 
 
 [Full phase II report](phaseII/)
