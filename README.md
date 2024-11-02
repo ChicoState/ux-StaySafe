@@ -47,8 +47,8 @@ The second phase of Stay Safe’s development has focused on refining wireframes
 
 - **Cognitive walkthroughs:** Provided hands-on testing to assess ease of navigation and feature clarity.
   - **Key actions:** Testers found the screens intuitive, confirming that users can easily navigate between pages, ensuring an accessible, user-friendly design.
-  - **Missing Features:** Notable gaps in features were brought to our attention, such as crime-type filtering and time-based data. These features were mentioned in our user persona that was tested but was nowhere to be found in our wireframe. Addressing these gaps would help to align the product with user needs.
-- **Informal feedback:** We provided questions to the SE team for their demo and received feedback that gave us insight on additional potential features that would improve the user experience and enhance user engagement.
+  - **Missing Features:** Notable gaps in features were mentioned, such as crime-type filtering and time-based data. These features were mentioned in our user persona that was tested but was nowhere to be found in our wireframe. Addressing these gaps would help to align the product with user needs.
+- **Informal feedback:** Questions were provided to the SE team for their demo and we received feedback that gave us insight on additional potential features that would improve the user experience and enhance user engagement.
   - **Crime-type disaggregation:**  Allow users to select the types of crimes they want to see and differentiate them visually on the map, to improve the relevancy of alerts to the user.
   - **Accessible crime data:** Providing users with an easy way to view historical crime data to view trends of an area, staying informed about an area they might be concerned about.
 - After these methods of research, modifications were made to our wireframes to account for features that were missing initially.
@@ -56,7 +56,7 @@ The second phase of Stay Safe’s development has focused on refining wireframes
   - Crime category settings to **allow users to select which crimes they want to be alerted about**.
   - A feature suggestion box was added in our support page as well, located within the settings, to **allow users to submit requests for extra features to allow us to keep gathering feedback** on where we could improve.
 
-All of these research methods and tweaks served to refine Stay Safe as much as possible and prepare it for the upcoming prototype that we’ll develop. These refinements ensure that Stay Safe will provide an excellent user experience and remain competitive within the respective market.
+These research methods and refinements prepare Stay Safe for the prototype phase, ensuring an excellent user experience and a competitive position in the market.
 
 
 [Full phase II report](phaseII/)
