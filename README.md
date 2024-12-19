@@ -12,7 +12,7 @@ Stay Safe is an application intended to assist with assessing crimes and crime r
 * [Personas and Scenarios](personas/)
 * [Sketches and Diagrams](sketches/)
 * [Wireframes](wireframes/)
-* [Prototype](#)
+* [Prototype](https://www.figma.com/proto/IM5jBCK9K5tjQa3mwCc5cH/User-Scenario-Wireframe?node-id=98-2919&t=VIT6COEQUJwPKgJA-1)
 
 # Phase I: Analyzing Users, Competitors, and Initial Designs
 
