@@ -4,8 +4,8 @@ Stay Safe is an application intended to assist with assessing crimes and crime r
 
 ## UX Team Members
 
-* **[Colby Sax](https://usabilityengineering.github.io/ux-journal-ChicoCJSax/)** - Research and analysis of competitors, heurisitic evaluation, executive summary, report editing, initial sketches, wireframe creations and refinements
-* **[Joey Lu](https://usabilityengineering.github.io/ux-journal-thejoeyluu/)** - Sketches, Research and analysis of competitors, report editing, wireframe creations and refinements
+* **[Colby Sax](https://usabilityengineering.github.io/ux-journal-ChicoCJSax/)** - Research and analysis of competitors, heurisitic evaluation, executive summary, report editing, initial sketches, wireframe creations and refinements, IRB form, prototype design/navigation, user tests and notes, protocol tasks
+* **[Joey Lu](https://usabilityengineering.github.io/ux-journal-thejoeyluu/)** - Sketches, Research and analysis of competitors, report editing, wireframe creations and refinements, informed consent form, prototype navigation, user tests and notes, protocol script & tasks
 
 # User-Centered Design Artifacts
  
@@ -63,11 +63,16 @@ These research methods and refinements prepare Stay Safe for the prototype phase
 
 # Phase III: Prototypes and User Testing
 
+
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+- StaySafe’s **prototype** was built from wireframes, incorporating feedback to refine features and design when transitioning from phases.
+- A **pilot test** was conducted with potential users, using a **think-aloud approach and difficulty ratings (1–5)**.
+- Feedback included both **qualitative and quantitative** insights:
+   - 4 out of 5 tasks had a 100% completion rate; 1 task had a 66% rate due to navigation challenges.
+   - Most tasks were **rated as easy (4–5)**, with occasional outliers.
+   - **Visual clarity and several features included were praised.**
+   - Suggestions included renaming the “starred” section to “important” or “favorites” and improving interactivity for alerts and icons.
+-	Overall, StaySafe was **well-received**, with key areas for improvement identified to **enhance usability and functionality**.
 
 [Full phase III report](phaseIII/)
